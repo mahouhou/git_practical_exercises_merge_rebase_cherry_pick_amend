@@ -1,1 +1,2 @@
 Fist line of feature1
+Second line of feature1
